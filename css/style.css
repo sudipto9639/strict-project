@@ -1,0 +1,171 @@
+
+header{
+    background-color: white;
+    padding: 15px 0px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+.banner{
+    background-image: url(../img/banner/bg.png);
+    background-size: cover;
+    background-position: center top;
+    padding: 200px 0;
+}
+.banner-content{
+    text-align: center;
+}
+.banner-content h1{
+    color: #fff;
+    font-size: 50px;
+    margin: 0;
+    padding-bottom: 30px;
+}
+.banner-content .border{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 30px;
+} 
+.banner-content .banner-text{
+    margin: 0;
+    color: #fff;
+    font-size: 18px;
+    padding-bottom: 30px;
+}
+.banner-content .btn-success{
+    background-color: #ff000000;
+    border: 1px solid #fff;
+    padding: 10px 35px;
+    border-radius: 0;
+}
+.message{text-align: center;
+    margin: 141px 5px 0px;
+    background-color: #f6f9f9
+}
+.message h1{    
+    color:darkcyan;
+}
+.message p{color: grey;
+    padding: 44px 0px 0px 0px;
+}
+.background-design{
+    background-color: #f6f9f9;
+}
+.card-design{
+    margin-top: 149px;
+}
+.card-design h2{
+    padding: 20px;
+}
+.card-design p{
+    color: grey;
+}
+.card-inner{
+    text-align: center;
+}
+.card-font p{
+    padding: 38px 0px 0px;
+}
+.showcase{
+    text-align: center;
+    padding: 200px 0px 0px 0px;
+   
+}
+.showcase h1{
+    font-size: 55px;
+    font-weight: 100px;
+}
+.showcase p{
+    padding: 10px;
+    color: grey;
+    font-size: 23px;
+}
+.show-case-photo{
+    margin-top: 120px;
+}
+.stay-us-area{
+    background-image: url(../img/banner/contact-bg.png);
+    background-size: cover;
+    background-position: center top;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    height: 708px;
+    margin-top: 120px;
+}
+.stay-inner{}
+.stay-inner h2{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: #fff;
+}
+.stay-inner p{
+    text-align: center;
+    margin: 0 auto;
+    color: #989898;
+}
+.input-form{
+    background: transparent;
+    color: #999999;
+    border: 1px solid #9999;
+    margin-bottom: 12px;
+    padding: 30px 30px;
+    border-radius: 5px;
+    display: inline;
+}
+.form-group-submit {
+    position: relative;
+}
+.form-group-submit .form-check {
+    display: inline;
+}
+.form-group-submit label {
+    color: #fff;
+}
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+}
+.form-group-submit .btn-info {
+    background: transparent;
+    border: 1px solid #15a4fa;
+    padding: 12px 50px;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+    transition: 0.5s;
+    float: right;
+    right: 0;
+    position: absolute;
+    top: -8px;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff0;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.contuct-form{
+    margin: 114px;
+    padding: 29px 60px 10px 60px;
+}
+.ending{
+    margin: 20px 0px 0px 20px;
+}
+.footer-text h5{
+    color: grey;
+}
